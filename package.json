@@ -1,5 +1,5 @@
 {
-  "name": "matcherz_vladimir",
+  "name": "@matcherz/vladimir",
   "version": "1.0.0",
   "description": "Fetching riot games api data",
   "main": "dist/index.js",
