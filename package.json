@@ -1,6 +1,6 @@
 {
-  "name": "twisted",
-  "version": "1.63.2",
+  "name": "vladimir",
+  "version": "1.0.0",
   "description": "Fetching riot games api data",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -28,16 +28,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sansossio/twisted"
+    "url": "https://github.com/ASDF-Developers/vladimir"
   },
   "author": {
-    "name": "Julio Sansossio",
-    "email": "juliosansossio@gmail.com",
-    "url": "https://github.com/Sansossio"
+    "name": "Yigithan Kadir Balci",
+    "email": "13695727+yigithanbalci@users.noreply.github.com",
+    "url": "https://github.com/yigithanbalci"
   },
-  "homepage": "https://github.com/Sansossio/twisted",
+  "homepage": "https://github.com/ASDF-Developers/vladimir",
   "bugs": {
-    "url": "https://github.com/Sansossio/twisted/issues"
+    "url": "https://github.com/ASDF-Developers/vladimir/issues"
   },
   "license": "MIT",
   "devDependencies": {
