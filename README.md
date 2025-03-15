@@ -1,7 +1,6 @@
 # Vladimir
 
 League of legends api wrapper <br>
-![https://www.npmjs.com/package/vladimir](https://nodei.co/npm/vladimir.png)
 
 # Simple example
 
