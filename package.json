@@ -4,6 +4,9 @@
   "description": "Fetching riot games api data",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "lint": "eslint ./src/**/*",
     "lint:fix": "eslint --fix ./src/**/*",
